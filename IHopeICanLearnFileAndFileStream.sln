@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHopeICanLearnFileAndFileStream", "IHopeICanLearnFileAndFileStream\IHopeICanLearnFileAndFileStream.csproj", "{8B7F7AF1-61D6-4E9E-8B83-36D4B88EAA37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileFileStreamDers", "FileFileStreamDers\FileFileStreamDers.csproj", "{DD7373A0-B7D0-44B8-963F-0866E524A96D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B7F7AF1-61D6-4E9E-8B83-36D4B88EAA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B7F7AF1-61D6-4E9E-8B83-36D4B88EAA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B7F7AF1-61D6-4E9E-8B83-36D4B88EAA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B7F7AF1-61D6-4E9E-8B83-36D4B88EAA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7373A0-B7D0-44B8-963F-0866E524A96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7373A0-B7D0-44B8-963F-0866E524A96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7373A0-B7D0-44B8-963F-0866E524A96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7373A0-B7D0-44B8-963F-0866E524A96D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60BE1BE-1C96-4073-9A67-F480300E4804}
+	EndGlobalSection
+EndGlobal
